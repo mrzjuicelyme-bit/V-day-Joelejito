@@ -16,9 +16,9 @@ const noMessages = [
     "Si dices que no, me podré chipil...",
     "Muuuuuy chipil... 😢",
     "Porfis??? 💔",
-    "No seas malito...",
+    "Alcanzame jijiji...😜",
     "Te hago ensalada de pollo! 😭",
-    "Alcanzame jijijiji 😜"
+    "No seas malito"
 ]
 
 const yesTeasePokes = [
